@@ -1,0 +1,3 @@
+dmall:
+  inventory:
+    url: http://inventory-service:9080
